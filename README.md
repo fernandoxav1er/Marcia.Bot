@@ -1,6 +1,6 @@
 # Marcia.Bot
 
-Marcia.Bot é um bot para Discord desenvolvido em C# utilizando a biblioteca Discord.Net. Este bot oferece uma variedade de comandos úteis para melhorar a experiência dos usuários no servidor.
+Marcia.Bot é um bot para Discord desenvolvido em C# utilizando a biblioteca Discord.Net. Este bot serviu de teste para fazer a integração com um modelo de IA.
 
 ## Funcionalidades
 
